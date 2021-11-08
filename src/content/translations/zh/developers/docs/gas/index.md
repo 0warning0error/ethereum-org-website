@@ -21,7 +21,7 @@ Gas 是指在以太坊网络上执行特定操作所需的计算工作量。
 
 ![显示 EVM 操作所需 Gas 的图表](./gas.png) _图表来自 [Ethereum EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)_
 
-本质上，Gas 费用是以太坊的货币以太 (ETH) 支付的。 Gas 价格以 Gwei 标明，Gwei 本身就是 ETH 的一个单位――每个 Gwei 等于 0.000000001 ETH (10<sup>-9</sup> ETH)。 例如，您可以说您的 Gas 成本为 1 Gwei，而不是说您的 Gas 成本为 0.000000001 以太。
+本质上，Gas 费用是以太坊的货币以太 (ETH) 支付的。 Gas 价格以 Gwei 标明，Gwei 本身就是 ETH 的一个单位――每个 Gwei 等于 0.000000001 ETH (10<sup>-9</sup> ETH)。 例如，您可以说您的 Gas 成本为 1 Gwei，而不用说您的 Gas 成本为 0.000000001 以太。Gwei的意思是"Giga-wei"（吉维），相当于10亿个Wei。Wei（根据[b-money](https://www.investopedia.com/terms/b/bmoney.asp)的创始人[戴维](https://en.wikipedia.org/wiki/Wei_Dai)命名）本身是以太币最小的单位。
 
 这个视频简要概述了 Gas 的存在及其原因：
 
